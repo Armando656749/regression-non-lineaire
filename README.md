@@ -1,2 +1,2 @@
 # regression-non-lineaire
-J'ai un modèle non linéaire à 07 paramètres dont je dois retrouver par algorithmes de descente du gradient
+La regression non lineaire consiste a retrouver les meilleurs parametres d'un modele (non lineaire) tout en minimisant un fonction d'erreur d'erreur definie de maniere quadratique via l'algorithme de la descente du gradient. En effet je disposes du fichier dataplan (Jeu de donnees utilisee). Dataplan.ipynb est le note book du travail realise
